@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  db:
+    build:
+      context: ./marklogic
+    image: ml9:build
+    ports:
+      - "8000:8000"
+      - "8001:8001"
+      - "8002:8002"
