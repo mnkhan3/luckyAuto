@@ -1,6 +1,6 @@
 rootProject.name = 'LuckyAuto'
 
-include 'capture-transactions'
+include 'capture-orders'
 include 'transaction-records'
 
 include 'shared-domain'

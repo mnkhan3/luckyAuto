@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: transaction-records
+  profiles:
+    active: local

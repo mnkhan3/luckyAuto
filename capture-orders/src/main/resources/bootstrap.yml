@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: capture-orders
+  profiles:
+    active: local
