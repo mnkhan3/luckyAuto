@@ -1,8 +1,8 @@
 Creating application called LuckyAuto for keeping track of car transactions. 
 
-# capture-transactions 
+# capture-orders
 
-* Consumes transactions via REST APIs and save it to database
+* Consumes orders via REST APIs and save it to database
 
 # transactions-records 
 
