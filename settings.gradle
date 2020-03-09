@@ -3,4 +3,4 @@ rootProject.name = 'LuckyAuto'
 include 'capture-orders'
 include 'transaction-records'
 
-include 'shared-domain'
+include 'shared-domain:data-domain'

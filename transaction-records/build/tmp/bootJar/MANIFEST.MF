@@ -1,5 +1,4 @@
 Manifest-Version: 1.0
-Start-Class: com.example.transactionrecords.TransactionRecordsApplicat
- ion
+Start-Class: com.transactionRecords.TransactionRecordsApplication
 Main-Class: org.springframework.boot.loader.JarLauncher
 
